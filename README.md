@@ -1,6 +1,6 @@
 # Название вашего проекта
 
-![Python Logo](https://www.python.org/community/logos/python-logo-master-v3-TM.png)
+![Python Logo](https://repository-images.githubusercontent.com/476329517/a132af01-7d76-428b-b245-e7dafe8964ca)
 
 Краткое описание вашего проекта: что он делает и для чего предназначен.
 
