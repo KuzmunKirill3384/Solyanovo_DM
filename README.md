@@ -8,4 +8,4 @@
 
 1. Клонируйте репозиторий:
 ```bash
-   https://github.com/KuzmunKirill3384/Solyanovo_DM.git
+   git clone https://github.com/KuzmunKirill3384/Solyanovo_DM.git
